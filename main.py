@@ -187,6 +187,6 @@ while True:
                     restart = True
                     turn = 0
                     game_over = False
-
+###changes
         pygame.display.update()
 
